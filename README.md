@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/bIWEg.gif"  />
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXA3aTU0NW9xNGtyaHh5ZTFwdzRjM2dxcjkxbXQ3YzJobXc1dmpmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"  />
 
 ###
 
@@ -23,11 +23,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/composer/885630" height="30" alt="composer logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
 </div>
 
 ###
